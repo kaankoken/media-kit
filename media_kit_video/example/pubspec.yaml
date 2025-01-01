@@ -8,6 +8,8 @@ dependencies:
   flutter:
     sdk: flutter
 
+  media_kit:
+    path: ../../media_kit
   media_kit_video:
     path: ../
 
